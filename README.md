@@ -1,2 +1,3 @@
 # amd_gpu_form
-Form to capture data for trtl hash rate (php html)
+
+Rough as guts php form to capture data for trtl hash rate (php html)
